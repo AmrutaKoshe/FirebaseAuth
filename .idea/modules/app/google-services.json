@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "419496369891",
+    "firebase_url": "https://day3codersweek.firebaseio.com",
+    "project_id": "day3codersweek",
+    "storage_bucket": "day3codersweek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419496369891:android:13e7cd51f6853114882fd6",
+        "android_client_info": {
+          "package_name": "com.example.day3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419496369891-jislqnpv1fi3olssnu4g9sjenqe9sn0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.day3",
+            "certificate_hash": "35ebac86dedd4f468e72f6c0417f43a82ff77cdd"
+          }
+        },
+        {
+          "client_id": "419496369891-sb12h018idpdkg3pgtvkth4mur3q9h72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYc-KTS1nfCldHxv4gj19xzluL2RpwN84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419496369891-sb12h018idpdkg3pgtvkth4mur3q9h72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
